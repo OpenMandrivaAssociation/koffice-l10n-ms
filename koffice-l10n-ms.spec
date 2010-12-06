@@ -1,6 +1,6 @@
 Name: koffice-l10n-ms
 Version: 1.9.98.5
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Malay
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
